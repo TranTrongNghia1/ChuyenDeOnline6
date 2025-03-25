@@ -1,18 +1,18 @@
-using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;  // Use UI elements
 using UnityStandardAssets.CrossPlatformInput;
 
-[RequireComponent(typeof (GUITexture))]
+[RequireComponent(typeof(Image))]  // Ensure an Image component is attached
 public class ForcedReset : MonoBehaviour
 {
     private void Update()
     {
-        // if we have forced a reset ...
+        // If the "ResetObject" button is pressed...
         if (CrossPlatformInputManager.GetButtonDown("ResetObject"))
         {
-            //... reload the scene
-            SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);
+            // ,reload the active scene
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 }
