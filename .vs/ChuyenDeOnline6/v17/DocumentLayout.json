@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "D:\\ltg\\ChuyenDeOnline6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|d:\\ltg\\chuyendeonline6\\assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\room managerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room managerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|d:\\ltg\\chuyendeonline6\\assets\\scripts\\enemies\\soldierai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\soldierai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|d:\\ltg\\chuyendeonline6\\assets\\scripts\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|d:\\ltg\\chuyendeonline6\\assets\\scripts\\weapons\\handgunammopick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\handgunammopick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C81C595-C835-AE87-B72E-AC84142CE0C4}|PhotonRealtime.csproj|d:\\ltg\\chuyendeonline6\\assets\\photon\\photonrealtime\\code\\loadbalancingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81C595-C835-AE87-B72E-AC84142CE0C4}|PhotonRealtime.csproj|solutionrelative:assets\\photon\\photonrealtime\\code\\loadbalancingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\weapons\\handgunpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\handgunpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|d:\\ltg\\chuyendeonline6\\assets\\scripts\\dooropenfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\dooropenfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dooropenfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\stats\\globalhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\globalhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SoldierAI.cs",
-              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Enemies\\SoldierAI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\SoldierAI.cs",
-              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Enemies\\SoldierAI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\SoldierAI.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwC4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T07:45:30.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HandgunAmmoPick.cs",
-              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Weapons\\HandgunAmmoPick.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\HandgunAmmoPick.cs",
-              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Weapons\\HandgunAmmoPick.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapons\\HandgunAmmoPick.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Title": "LoadBalancingClient.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Photon\\PhotonRealtime\\Code\\LoadBalancingClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonRealtime\\Code\\LoadBalancingClient.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Photon\\PhotonRealtime\\Code\\LoadBalancingClient.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonRealtime\\Code\\LoadBalancingClient.cs",
+              "ViewState": "AgIAAEgDAAAAAAAAAAAmwLIKAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T07:43:42.595Z",
+              "WhenOpened": "2025-03-26T10:37:52.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DoorOpenFirst.cs",
-              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\DoorOpenFirst.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorOpenFirst.cs",
-              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\DoorOpenFirst.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DoorOpenFirst.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PlayerSetup.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\PlayerSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSetup.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\PlayerSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T07:28:09.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HandgunPickup.cs",
-              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Weapons\\HandgunPickup.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\HandgunPickup.cs",
-              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Weapons\\HandgunPickup.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapons\\HandgunPickup.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T18:37:15.514Z",
+              "WhenOpened": "2025-03-26T10:24:32.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerSpawner.cs",
-              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\PlayerSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpawner.cs",
-              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\PlayerSpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "Room Managerment.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Room Managerment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Room Managerment.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Room Managerment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Room Managerment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T18:02:35.778Z",
+              "WhenOpened": "2025-03-26T08:53:49.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ForcedReset.cs",
-              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
-              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
-              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
-              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GlobalHealth.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Stats\\GlobalHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\GlobalHealth.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Stats\\GlobalHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\GlobalHealth.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T13:41:35.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T08:16:26.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SimpleActivatorMenu.cs",
-              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
-              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
-              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "DoorOpenFirst.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\DoorOpenFirst.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorOpenFirst.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\DoorOpenFirst.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorOpenFirst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T10:02:27.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T07:28:09.766Z"
             }
           ]
         }

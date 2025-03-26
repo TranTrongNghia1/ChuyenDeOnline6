@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\ltg\\ChuyenDeOnline6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|d:\\ltg\\chuyendeonline6\\assets\\scripts\\dooropenfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dooropenfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C81C595-C835-AE87-B72E-AC84142CE0C4}|PhotonRealtime.csproj|d:\\ltg\\chuyendeonline6\\assets\\photon\\photonrealtime\\code\\loadbalancingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C81C595-C835-AE87-B72E-AC84142CE0C4}|PhotonRealtime.csproj|solutionrelative:assets\\photon\\photonrealtime\\code\\loadbalancingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\room managerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room managerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\yurowm\\demo\\scripts\\characterpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\yurowm\\demo\\scripts\\characterpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0242B4DF-E0E7-B81F-DE1B-00A95A46C5C1}|PhotonUnityNetworking.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\photon\\photonunitynetworking\\code\\photonnetworkpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0242B4DF-E0E7-B81F-DE1B-00A95A46C5C1}|PhotonUnityNetworking.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\code\\photonnetworkpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\weapons\\handgunpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\handgunpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|d:\\ltg\\chuyendeonline6\\assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\weapons\\handgunammopick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\handgunammopick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\enemies\\soldierai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\soldierai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\dooropenfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dooropenfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\stats\\globalhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\globalhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +46,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DoorOpenFirst.cs",
-              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\DoorOpenFirst.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorOpenFirst.cs",
-              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\DoorOpenFirst.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\DoorOpenFirst.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAArAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CharacterPanel.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Yurowm\\Demo\\Scripts\\CharacterPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Yurowm\\Demo\\Scripts\\CharacterPanel.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Yurowm\\Demo\\Scripts\\CharacterPanel.cs",
+              "RelativeToolTip": "Assets\\Yurowm\\Demo\\Scripts\\CharacterPanel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T07:28:09.766Z",
+              "WhenOpened": "2025-03-26T10:10:10.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhotonNetworkPart.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetworkPart.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetworkPart.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetworkPart.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetworkPart.cs",
+              "ViewState": "AgIAALsJAAAAAAAAAAAgwPEJAADcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:01:46.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadBalancingClient.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Photon\\PhotonRealtime\\Code\\LoadBalancingClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonRealtime\\Code\\LoadBalancingClient.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Photon\\PhotonRealtime\\Code\\LoadBalancingClient.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonRealtime\\Code\\LoadBalancingClient.cs",
+              "ViewState": "AgIAAJIDAAAAAAAAAAAcwLIKAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:54:09.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "SoldierAI.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Enemies\\SoldierAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\SoldierAI.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Enemies\\SoldierAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\SoldierAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:27:08.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HandgunAmmoPick.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Weapons\\HandgunAmmoPick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\HandgunAmmoPick.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Weapons\\HandgunAmmoPick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\HandgunAmmoPick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:23:39.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HandgunPickup.cs",
               "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Weapons\\HandgunPickup.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\HandgunPickup.cs",
               "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Weapons\\HandgunPickup.cs",
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\HandgunPickup.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T18:37:15.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:22:41.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerSpawner.cs",
-              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\PlayerSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpawner.cs",
-              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\PlayerSpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Room Managerment.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Room Managerment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Room Managerment.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Room Managerment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Room Managerment.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wCMAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T18:02:35.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T08:53:49.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ForcedReset.cs",
-              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
-              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
-              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
-              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "GlobalHealth.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Stats\\GlobalHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\GlobalHealth.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Stats\\GlobalHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\GlobalHealth.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T13:41:35.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T08:16:26.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SimpleActivatorMenu.cs",
-              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
-              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
-              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "DoorOpenFirst.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\DoorOpenFirst.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorOpenFirst.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\DoorOpenFirst.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorOpenFirst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T10:02:27.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T07:28:09.766Z"
             }
           ]
         }
