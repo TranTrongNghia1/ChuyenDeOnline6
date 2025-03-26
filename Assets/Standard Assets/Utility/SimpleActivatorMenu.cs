@@ -1,45 +1,38 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class SimpleActivatorMenu : MonoBehaviour
+namespace UnityStandardAssets.Utility
 {
-    // UI Button to display current object
-    public Text camSwitchButton;
-    public GameObject[] objects;
-
-    private int m_CurrentActiveObject;
-
-    private void OnEnable()
+    public class SimpleActivatorMenu : MonoBehaviour
     {
-        if (objects == null || objects.Length == 0)
+        // An incredibly simple menu which, when given references
+        // to gameobjects in the scene
+        public Text camSwitchButton;
+        public GameObject[] objects;
+
+
+        private int m_CurrentActiveObject;
+
+
+        private void OnEnable()
         {
-            Debug.LogWarning("No objects assigned to SimpleActivatorMenu.");
-            return;
+            // active object starts from first in array
+            m_CurrentActiveObject = 0;
+            camSwitchButton.text = objects[m_CurrentActiveObject].name;
         }
 
-        // Ensure only the first object is active
-        m_CurrentActiveObject = 0;
-        UpdateActiveObject();
-    }
 
-    public void NextCamera()
-    {
-        if (objects == null || objects.Length == 0) return;
-
-        // Cycle to the next object
-        m_CurrentActiveObject = (m_CurrentActiveObject + 1) % objects.Length;
-        UpdateActiveObject();
-    }
-
-    private void UpdateActiveObject()
-    {
-        for (int i = 0; i < objects.Length; i++)
+        public void NextCamera()
         {
-            objects[i].SetActive(i == m_CurrentActiveObject);
-        }
+            int nextactiveobject = m_CurrentActiveObject + 1 >= objects.Length ? 0 : m_CurrentActiveObject + 1;
 
-        if (camSwitchButton != null)
-        {
+            for (int i = 0; i < objects.Length; i++)
+            {
+                objects[i].SetActive(i == nextactiveobject);
+            }
+
+            m_CurrentActiveObject = nextactiveobject;
             camSwitchButton.text = objects[m_CurrentActiveObject].name;
         }
     }
