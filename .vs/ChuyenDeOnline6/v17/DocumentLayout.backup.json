@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ltg\\ChuyenDeOnline6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|d:\\ltg\\chuyendeonline6\\assets\\scripts\\dooropenfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dooropenfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\weapons\\handgunpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\handgunpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|d:\\ltg\\chuyendeonline6\\assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9D28BC-3513-AE54-4C1B-DE55920E8B49}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoorOpenFirst.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\DoorOpenFirst.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorOpenFirst.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\DoorOpenFirst.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\DoorOpenFirst.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:28:09.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandgunPickup.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Weapons\\HandgunPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\HandgunPickup.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Weapons\\HandgunPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\HandgunPickup.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:37:15.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerSpawner.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\PlayerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpawner.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\PlayerSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:02:35.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForcedReset.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:41:35.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleActivatorMenu.cs",
+              "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:02:27.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
