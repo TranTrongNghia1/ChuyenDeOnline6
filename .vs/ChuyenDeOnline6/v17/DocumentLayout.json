@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\ltg\\ChuyenDeOnline6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\room managerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room managerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|d:\\ltg\\chuyendeonline6\\assets\\scripts\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\scripts\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C81C595-C835-AE87-B72E-AC84142CE0C4}|PhotonRealtime.csproj|d:\\ltg\\chuyendeonline6\\assets\\photon\\photonrealtime\\code\\loadbalancingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|d:\\ltg\\chuyendeonline6\\assets\\scripts\\room managerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0D4893-517B-4A60-3AE0-0EF3A05D76FE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room managerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C81C595-C835-AE87-B72E-AC84142CE0C4}|PhotonRealtime.csproj|D:\\ltg\\ChuyenDeOnline6\\assets\\photon\\photonrealtime\\code\\loadbalancingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C81C595-C835-AE87-B72E-AC84142CE0C4}|PhotonRealtime.csproj|solutionrelative:assets\\photon\\photonrealtime\\code\\loadbalancingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -40,14 +40,14 @@
               "RelativeDocumentMoniker": "Assets\\Photon\\PhotonRealtime\\Code\\LoadBalancingClient.cs",
               "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Photon\\PhotonRealtime\\Code\\LoadBalancingClient.cs",
               "RelativeToolTip": "Assets\\Photon\\PhotonRealtime\\Code\\LoadBalancingClient.cs",
-              "ViewState": "AgIAAEgDAAAAAAAAAAAmwLIKAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIKAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T10:37:52.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerSetup.cs",
               "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\PlayerSetup.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSetup.cs",
@@ -60,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Room Managerment.cs",
               "DocumentMoniker": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Room Managerment.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Room Managerment.cs",
               "ToolTip": "D:\\ltg\\ChuyenDeOnline6\\Assets\\Scripts\\Room Managerment.cs",
               "RelativeToolTip": "Assets\\Scripts\\Room Managerment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T08:53:49.1Z",
               "EditorCaption": ""
